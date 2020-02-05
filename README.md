@@ -1,2 +1,2 @@
 # infinity
-Observes the things around you.
+Observe the things around you.
